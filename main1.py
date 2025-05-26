@@ -1,5 +1,5 @@
 import random
 
-x = random.randint(1,100)
+x = 15 + 13
 
 print(x)
